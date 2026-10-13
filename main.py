@@ -1,1 +1,1 @@
-print('Asan')
+pringit('Asan')

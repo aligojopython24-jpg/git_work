@@ -1,1 +1,3 @@
-pringit('Asan')
+print('Asan')
+
+print('Hi!')
